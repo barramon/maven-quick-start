@@ -11,3 +11,6 @@ buildNumber.properties
 .mvn/wrapper/maven-wrapper.jar
 #OS-specific files
 .DS_Store
+#Eclipse
+.settings
+.classpath
